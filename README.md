@@ -1,4 +1,4 @@
-<h1 align="center"><p style="color:white;">"Hi 👋, I'm Shashank Allada</p></h1>
+<h1 align="center" style="color⬜">"Hi 👋, I'm Shashank Allada</h1>
 <h3 align="center">Results-driven and innovative Computer Science Engineering student specializing in IoT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankallada&label=Profile%20views&color=0e75b6&style=flat" alt="shashankallada" /> </p>
